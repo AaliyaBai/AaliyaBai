@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaliya Bai</h1>
 <h3 align="center">A final year Data Engineering student I'm open for intern roles in Data Science or Data Engineering</h3>
 
-- 🔭 I’m currently working on **ClinicalPal - A clinical chatbot**
+- 🔭 I’m currently working on **Data Science Projects**
 
 - 📫 How to reach me **aaliyabais9@gmail.com**
 
